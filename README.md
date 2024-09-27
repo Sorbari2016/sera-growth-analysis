@@ -38,10 +38,10 @@
 ![Data Modelling in Power BI](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20data%20model.png)
 
 ### Dashboard - Homepage 
-[Homepage](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20dashboard%20-%20Home.png)
+![Homepage](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20dashboard%20-%20Home.png)
 
 ### Dashboard - Transactions
-[Transactions](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20dashboard%20-%20Transactions.png)
+![Transactions](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20dashboard%20-%20Transactions.png)
 
 ## Growth Analysis & Recommendations 
 
