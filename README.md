@@ -24,12 +24,12 @@
 - Creating a datetime field using the transaction_date, another field for card_type_group where card types can only be verve, visa, or mastercard using the card_type field. 
 - I created one more field called credit_or_debit which indicates whether the card created was either debit or credit,  also from the card_type field.
 - I finally tied all the transformations together, by selecting the fields I needed for analysis, which  also included both the transformed field, to create a view. 
-![Data Transformations in SQL](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/data_transformations.sql)
+[Data Transformations in SQL](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/data_transformations.sql)
 
 ## Data Analysis in SQL 
 - I checked and look at the fields I had, to better understand the dataset I had.
 - I wrote some SQL queries to help the executives answer some important preliminary questions
-![Data Analysis in SQL](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/data_analysis_sera_payments.sql)
+[Data Analysis in SQL](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/data_analysis_sera_payments.sql)
 
 ## Data Modelling & Visualisation in Power BI 
 
