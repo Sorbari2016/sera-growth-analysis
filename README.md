@@ -35,7 +35,7 @@
 
 ## Data Modelling & Visualisation in Power BI 
 ### Data Modelling 
-[Data Modelling in Power BI[(https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20data%20model.png)
+[Data Modelling in Power BI](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20data%20model.png)
 
 ### Dashboard - Homepage 
 [Homepage](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20dashboard%20-%20Home.png)
@@ -46,3 +46,4 @@
 ## Growth Analysis & Recommendations 
 
 ## Download 
+<a href = "https://github.com/Sorbari2016/sera-growth-analysis-/raw/refs/heads/main/assets/sera%20dashboard.pbix"> Download Power BI report </a>
