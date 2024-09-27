@@ -31,11 +31,11 @@
 - I checked and look at the fields I had, to better understand the dataset I had.
 - I wrote some SQL queries to help the executives answer some important preliminary questions
 
-! [Data Analysis in SQL](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/data_analysis_sera_payments.sql)
+[Data Analysis in SQL](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/data_analysis_sera_payments.sql)
 
 ## Data Modelling & Visualisation in Power BI 
 ### Data Modelling 
-[Data Modelling in Power BI](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20data%20model.png)
+![Data Modelling in Power BI](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20data%20model.png)
 
 ### Dashboard - Homepage 
 [Homepage](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20dashboard%20-%20Home.png)
