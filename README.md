@@ -44,6 +44,7 @@
 ![Transactions](https://github.com/Sorbari2016/sera-growth-analysis-/blob/main/assets/sera%20dashboard%20-%20Transactions.png)
 
 ## Growth Analysis & Recommendations 
+- Sales trend has actually been in an upward direction, especially with Nigerian customers, which means ad campaigns have been working. These promotions should be continued and improved in Sub-Saharan Africa.
 
 ## Download 
 <a href = "https://github.com/Sorbari2016/sera-growth-analysis-/raw/refs/heads/main/assets/sera%20dashboard.pbix"> Download Power BI report </a>
